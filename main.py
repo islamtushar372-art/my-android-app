@@ -12,7 +12,7 @@ import time
 import random
 
 # --- CONFIGURATION ---
-TELEGRAM_TOKEN = "8328666500:AAF9k_MI-k6Lmu29T6T8PsQw1qSzi6ckizw" # [cite: 2026-02-22]
+TELEGRAM_TOKEN = "" # [cite: 2026-02-22]
 USER_AGENTS = ["Mozilla/5.0 Chrome/120.0.0.0", "Mozilla/5.0 Safari/537.36"]
 
 Window.clearcolor = (0.05, 0.05, 0.05, 1)
